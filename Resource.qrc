@@ -1,0 +1,42 @@
+<RCC>
+  <qresource/>
+  <qresource prefix="Icones">
+    <file>Icones/aplicativos_10__Add.png</file>
+    <file>Icones/aplicativos_10__Alert.png</file>
+    <file>Icones/aplicativos_0830_Send.png</file>
+    <file>Icones/aplicativos_0831_Search.png</file>
+    <file>Icones/aplicativos_0832_Refresh.png</file>
+    <file>Icones/aplicativos_0832_Remove.png</file>
+    <file>Icones/aplicativos_0832_Save.png</file>
+    <file>Icones/aplicativos_0834_Previous.png</file>
+    <file>Icones/aplicativos_0834_Print.png</file>
+    <file>Icones/aplicativos_0837_Next.png</file>
+    <file>Icones/aplicativos_0839_Key.png</file>
+    <file>Icones/aplicativos_0842_Edit.png</file>
+    <file>Icones/aplicativos_0842_Flash_Disk.png</file>
+    <file>Icones/aplicativos_0844_Delete.png</file>
+    <file>Icones/aplicativos_0845_Cancel.png</file>
+    <file>Icones/aplicativos_0845_Check.png</file>
+    <file>Icones/aplicativos_0846_Calendar.png</file>
+    <file>Icones/aplicativos_0847_Add.png</file>
+    <file>Icones/aplicativos_0847_Archive.png</file>
+    <file>Icones/aplicativos_1010_Security.png</file>
+    <file>Icones/aplicativos_1011_Settings.png</file>
+    <file>Icones/aplicativos_1012_Maintenance.png</file>
+    <file>Icones/aplicativos_1012_Printer.png</file>
+    <file>Icones/aplicativos_1013_Stop.png</file>
+    <file>Icones/aplicativos_1016_Download.png</file>
+    <file>Icones/aplicativos_1016_Restart.png</file>
+    <file>Icones/aplicativos_1017_Select.png</file>
+    <file>Icones/aplicativos_1019_Error.png</file>
+    <file>Icones/aplicativos_1019_Refresh.png</file>
+    <file>Icones/aplicativos_1028_Calender.png</file>
+    <file>Icones/aplicativos_1028_Stats.png</file>
+    <file>Icones/aplicativos_1056_Graphics.png</file>
+    <file>Icones/aplicativos_1109_Database.png</file>
+    <file>Icones/aplicativos_1110_Edit.png</file>
+    <file>Icones/aplicativos_1110_System.png</file>
+    <file>Icones/aplicativos_1113_Home.png</file>
+    <file>Icones/Webcam.png</file>
+  </qresource>
+</RCC>
